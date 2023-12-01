@@ -21,7 +21,7 @@ function BannerReverse({ title, text, img }) {
         </div>
       </div>
     </div>
-  );
-}
+   );
+ }
 
 export default BannerReverse;
