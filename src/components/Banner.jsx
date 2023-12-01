@@ -21,7 +21,7 @@ function Banner({ title, text, img }) {
         </div>
       </div>
     </div>
-  );
-}
+   );
+ }
 
 export default Banner;
