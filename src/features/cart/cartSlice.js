@@ -15,7 +15,7 @@ export const cartitemSlice = createSlice({
       state.value -= 1;
     },
   },
-});
+ });
 
 export const { increase, decrease } = cartitemSlice.actions;
 
