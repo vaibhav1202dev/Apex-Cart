@@ -23,7 +23,7 @@ function CartWithItems() {
               <CartItem key={id} item={item} setCartItem={setCartItem} />
             ) : (
               <EmptyCart key={id} />
-            )
+             )
           )}
         </div>
       </div>
