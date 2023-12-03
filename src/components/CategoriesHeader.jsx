@@ -52,6 +52,6 @@ function CategoriesHeader() {
       </div>
     </>
   );
-}
+ }
 
 export default CategoriesHeader;
