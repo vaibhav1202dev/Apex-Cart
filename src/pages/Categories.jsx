@@ -9,6 +9,6 @@ function Categories() {
       <Outlet />
     </>
   );
-}
+ }
 
 export default Categories;
