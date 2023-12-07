@@ -12,17 +12,7 @@ function Footer() {
           <a href="Careers">Careers</a>
           <a href="Contact">Contact Us</a>
         </div>
-        <p className="love">
-          Design &nbsp; by{" "}
-          <a
-            target="_blank"
-            rel="noreferrer"
-            style={{ color: "white" }}
-            href="https://github.com/vaibhav1202dev"
-          >
-            &nbsp; Vaibhav
-          </a>
-        </p>
+       
       </footer>
     </>
   );
