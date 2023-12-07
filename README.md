@@ -1,4 +1,4 @@
-
+![logo](https://github.com/vaibhav1202dev/Apex-Cart/assets/142654068/e34278d0-313e-447a-b61b-ffc4d0b323be)
 <h2>About the project</h2>
 
 <p>This is a e-commerce website built with React and sCSS. This
