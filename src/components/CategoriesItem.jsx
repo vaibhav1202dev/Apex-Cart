@@ -28,6 +28,6 @@ function CategoriesItem() {
       </div>
     </>
   );
- }
+  }
 
 export default CategoriesItem;
