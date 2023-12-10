@@ -206,4 +206,4 @@ export const items = [
     specs:
       "Elevate your skincare routine with our invigorating face wash, meticulously crafted to cleanse and purify your skin, leaving it feeling refreshed and rejuvenated with a natural, healthy glow",
   },
-];
+ ];
