@@ -10,7 +10,7 @@ website features a modern and intuitive design, with easy-to-use navigation and 
 simple shopping experience that puts the focus on the products.</p>
 
 
-👉 Live Demo: <a href='https://apex-cart.vercel.app/'>Ecommerce Demo</a>
+👉 Live Demo: <a href='https://apex-cart.vercel.app/'>Apex-Cart Demo</a>
 
 <h3>Build with:</h3>
 
@@ -48,3 +48,18 @@ simple shopping experience that puts the focus on the products.</p>
 <div align='center'>
 <img src='https://github.com/vaibhav1202dev/Apex-Cart/assets/142654068/171380f8-ed57-4390-9cbd-bdbe3653e685.png'/>
 </div>
+## <h2> Installation and Setup Instructions 🛠️</h2>
+
+Clone down this repository. You will need `node` and `npm` installed globally on your machine.  
+
+Installation:
+
+`npm install`  
+
+To Run Test Suite:  
+
+`npm test`  
+
+To Start Server:
+
+`npm start` 
