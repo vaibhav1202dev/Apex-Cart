@@ -1,7 +1,7 @@
 <div align='center'>
 <img src='https://github.com/vaibhav1202dev/Apex-Cart/assets/142654068/e34278d0-313e-447a-b61b-ffc4d0b323be.png'  height='80px' width='80px'/>
 </div>
-  
+  <div align='center'><h1>Apex Cart<h1></div>
  
 <h2>About the project</h2>
 
@@ -41,13 +41,14 @@ simple shopping experience that puts the focus on the products.</p>
 <div align='center'>
 <img src='https://github.com/vaibhav1202dev/Apex-Cart/assets/142654068/a4e68a9f-3f92-4f60-87f7-4913de41be25.png'/>
 
-<br>
+
 <br>
 <h3 align='center'>Shopping Cart 🛒</h3>
 
 <div align='center'>
 <img src='https://github.com/vaibhav1202dev/Apex-Cart/assets/142654068/171380f8-ed57-4390-9cbd-bdbe3653e685.png'/>
 </div>
+
 ## <h2> Installation and Setup Instructions 🛠️</h2>
 
 Clone down this repository. You will need `node` and `npm` installed globally on your machine.  
