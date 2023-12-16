@@ -1,4 +1,4 @@
-<div align='center'>
+ <div align='center'>
 <img src='https://github.com/vaibhav1202dev/Apex-Cart/assets/142654068/e34278d0-313e-447a-b61b-ffc4d0b323be.png'  height='80px' width='80px'/>
 </div>
   <div align='center'><h1>Apex Cart<h1></div>
